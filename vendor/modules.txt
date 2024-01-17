@@ -241,7 +241,7 @@ github.com/longhorn/longhorn-engine/pkg/replica/client
 github.com/longhorn/longhorn-engine/pkg/types
 github.com/longhorn/longhorn-engine/pkg/util
 github.com/longhorn/longhorn-engine/proto/ptypes
-# github.com/longhorn/longhorn-instance-manager v1.5.2-0.20231006022904-b2c88ac8080d
+# github.com/longhorn/longhorn-instance-manager v1.5.2-0.20231006022904-b2c88ac8080d => github.com/sfackler/longhorn-instance-manager v0.0.0-20240117172921-f68d29597190
 ## explicit; go 1.20
 github.com/longhorn/longhorn-instance-manager/pkg/api
 github.com/longhorn/longhorn-instance-manager/pkg/client
@@ -1482,6 +1482,7 @@ sigs.k8s.io/structured-merge-diff/v4/value
 # sigs.k8s.io/yaml v1.3.0
 ## explicit; go 1.12
 sigs.k8s.io/yaml
+# github.com/longhorn/longhorn-instance-manager => github.com/sfackler/longhorn-instance-manager v0.0.0-20240117172921-f68d29597190
 # k8s.io/api => k8s.io/api v0.27.1
 # k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.27.1
 # k8s.io/apimachinery => k8s.io/apimachinery v0.27.1

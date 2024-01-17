@@ -3,6 +3,7 @@ module github.com/longhorn/longhorn-manager
 go 1.21
 
 replace (
+	github.com/longhorn/longhorn-instance-manager => github.com/sfackler/longhorn-instance-manager v0.0.0-20240117172921-f68d29597190
 	k8s.io/api => k8s.io/api v0.27.1
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.27.1
 	k8s.io/apimachinery => k8s.io/apimachinery v0.27.1

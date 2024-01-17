@@ -505,8 +505,6 @@ github.com/longhorn/go-spdk-helper v0.0.0-20231002161457-6c31a95f76e8 h1:tV7DKLG
 github.com/longhorn/go-spdk-helper v0.0.0-20231002161457-6c31a95f76e8/go.mod h1:XoGXOYHw1KW3qdvTSimwY+Anyg5cPl6EVkjXxS25Upg=
 github.com/longhorn/longhorn-engine v1.5.2-0.20230906182804-9475221d9535 h1:mfkKctSnweL36Y2gUxQoXDyfJ72CsAhwCgG4I2vhHMw=
 github.com/longhorn/longhorn-engine v1.5.2-0.20230906182804-9475221d9535/go.mod h1:OOjKIyGpTxmZFWkn8N1G+H4pga0niuMgzrR/h5HUJNo=
-github.com/longhorn/longhorn-instance-manager v1.5.2-0.20231006022904-b2c88ac8080d h1:Loac5gj3M+Fv4X16JjyjNCUVpigFB5W1v1YgWsDDg78=
-github.com/longhorn/longhorn-instance-manager v1.5.2-0.20231006022904-b2c88ac8080d/go.mod h1:mziV0MFEVUS0C2s4rwEk0rAmUCK10kOAazqaMs+9tc4=
 github.com/longhorn/longhorn-share-manager v1.5.3-rc1.0.20231115141215-5109d5939e17 h1:0aCMBoX4nTKpHBFD1lwcRaRc8oQcr6bqfFEIp9VpRYw=
 github.com/longhorn/longhorn-share-manager v1.5.3-rc1.0.20231115141215-5109d5939e17/go.mod h1:2Ti49HwYOBt5O9aU3Eminw0aiu1e3S0qdn7yByI+C9Q=
 github.com/longhorn/longhorn-spdk-engine v0.0.0-20231005170812-e9b634e07e47 h1:hadV15fSF+akBFZ8dMQFscTsJUVpEC1t6Go3B28ZNYw=
@@ -692,6 +690,8 @@ github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb
 github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529/go.mod h1:DxrIzT+xaE7yg65j358z/aeFdxmN0P9QXhEzd20vsDc=
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
+github.com/sfackler/longhorn-instance-manager v0.0.0-20240117172921-f68d29597190 h1:nbhQulUyoYjcVeSYjWilwInAnCXLyy3DSuOd3fnCT04=
+github.com/sfackler/longhorn-instance-manager v0.0.0-20240117172921-f68d29597190/go.mod h1:mziV0MFEVUS0C2s4rwEk0rAmUCK10kOAazqaMs+9tc4=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=

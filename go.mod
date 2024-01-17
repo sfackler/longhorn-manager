@@ -3,6 +3,7 @@ module github.com/longhorn/longhorn-manager
 go 1.21
 
 replace (
+	github.com/longhorn/longhorn-instance-manager => github.com/sfackler/longhorn-instance-manager v0.0.0-20240116205402-340938ed05bf
 	k8s.io/api => k8s.io/api v0.28.5
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.28.5
 	k8s.io/apimachinery => k8s.io/apimachinery v0.28.5
@@ -139,7 +140,7 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
-	github.com/longhorn/longhorn-spdk-engine v0.0.0-20240111044835-64886f5375d0 // indirect
+	github.com/longhorn/longhorn-spdk-engine v0.0.0-20240115143445-65227400cd97 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect

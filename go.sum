@@ -1048,12 +1048,10 @@ github.com/longhorn/go-spdk-helper v0.0.0-20240111043333-3afa7627b1aa h1:5AflxT5
 github.com/longhorn/go-spdk-helper v0.0.0-20240111043333-3afa7627b1aa/go.mod h1:9nZ5HbwviggK6l792X4l9fTivEWmiK3sXFaroiRp2yw=
 github.com/longhorn/longhorn-engine v1.6.0-dev-20240105.0.20240110095344-deb8b18a1558 h1:j2fUmyqimKGakd5WNf46bfgZV4q5IsgKzcl/oP7QRoA=
 github.com/longhorn/longhorn-engine v1.6.0-dev-20240105.0.20240110095344-deb8b18a1558/go.mod h1:xRX2tg6Xaer0OonBnqA0wCruk/j51w3izR2J1+xHfiI=
-github.com/longhorn/longhorn-instance-manager v1.6.0-dev-20240105.0.20240111093648-3519c6242106 h1:jzu1dJmsfx19RbUMcQL3WtxVgcJtVXAkRFgBLcAgLl4=
-github.com/longhorn/longhorn-instance-manager v1.6.0-dev-20240105.0.20240111093648-3519c6242106/go.mod h1:T/kstatQiOYOsTS2jEzreAR+WptlsYJAGHkaSQiiUqQ=
 github.com/longhorn/longhorn-share-manager v1.6.0-dev-20231217.0.20231226052309-99d57c1695ea h1:bYNEyl0yAh76fjzTQEo7+u2G80XaVi8aXfMlwyPiZmI=
 github.com/longhorn/longhorn-share-manager v1.6.0-dev-20231217.0.20231226052309-99d57c1695ea/go.mod h1:sDo6d4FV5nALnXkZHRY31H6R6KTK0LNo0kMVULlhYiE=
-github.com/longhorn/longhorn-spdk-engine v0.0.0-20240111044835-64886f5375d0 h1:NOe4AIBnzjgDiQ3UOYLSNlIVt+Tekg5gW1LJgK1Lutw=
-github.com/longhorn/longhorn-spdk-engine v0.0.0-20240111044835-64886f5375d0/go.mod h1:eR7EHbZp6ac1T4V+2YMPuko07UP8dSZb/VAEH1vt4M0=
+github.com/longhorn/longhorn-spdk-engine v0.0.0-20240115143445-65227400cd97 h1:+iupAe4/VYzNZrQJ6LaHu2A9Q2PoBrN8LEZr4NZEpUQ=
+github.com/longhorn/longhorn-spdk-engine v0.0.0-20240115143445-65227400cd97/go.mod h1:eR7EHbZp6ac1T4V+2YMPuko07UP8dSZb/VAEH1vt4M0=
 github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0/go.mod h1:zJYVVT2jmtg6P3p1VtQj7WsuWi/y4VnjVBn7F8KPB3I=
 github.com/lyft/protoc-gen-star v0.6.0/go.mod h1:TGAoBVkt8w7MPG72TrKIu85MIdXwDuzJYeZuUPFPNwA=
 github.com/lyft/protoc-gen-star v0.6.1/go.mod h1:TGAoBVkt8w7MPG72TrKIu85MIdXwDuzJYeZuUPFPNwA=
@@ -1241,6 +1239,8 @@ github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58/go.mod h1:6lfF
 github.com/ruudk/golang-pdf417 v0.0.0-20201230142125-a7e3863a1245/go.mod h1:pQAZKsJ8yyVxGRWYNEm9oFB8ieLgKFnamEyDmSA0BRk=
 github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
 github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529/go.mod h1:DxrIzT+xaE7yg65j358z/aeFdxmN0P9QXhEzd20vsDc=
+github.com/sfackler/longhorn-instance-manager v0.0.0-20240116205402-340938ed05bf h1:Tge1nVCMkCOvgG78308DTJRga09X7wh++C7+waE6poM=
+github.com/sfackler/longhorn-instance-manager v0.0.0-20240116205402-340938ed05bf/go.mod h1:m3432KJ8jhnGg3k3kk3HEysWAyc655cEXf3ShWHPQqg=
 github.com/shirou/gopsutil/v3 v3.23.7 h1:C+fHO8hfIppoJ1WdsVm1RoI0RwXoNdfTK7yWXV0wVj4=
 github.com/shirou/gopsutil/v3 v3.23.7/go.mod h1:c4gnmoRC0hQuaLqvxnx1//VXQ0Ms/X9UnJF8pddY5z4=
 github.com/shoenig/go-m1cpu v0.1.6/go.mod h1:1JJMcUBvfNwpq05QDQVAnx3gUHr9IYF7GNg9SUEw2VQ=
